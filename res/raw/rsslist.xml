@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsslist>
+	<list>
+		<rsssite key="NHK WORLD RADIO JAPAN">
+			<url>http://www.nhk.or.jp/rj/podcast/rss/english.xml</url>
+		</rsssite>
+	</list>
+</rsslist>
